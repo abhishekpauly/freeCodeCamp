@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/freeCodeCamp/freeCodeCamp#readme",
   "devDependencies": {
-    "vitest": "^3.2.4",
+    "vitest": "^3.2.6",
     "@vitest/ui": "^3.2.4"
   }
 }
